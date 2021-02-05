@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66205227039",
+    "firebase_url": "https://dependencies-kotlin.firebaseio.com",
+    "project_id": "dependencies-kotlin",
+    "storage_bucket": "dependencies-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66205227039:android:338b44c84707f3b3c49d2a",
+        "android_client_info": {
+          "package_name": "com.poilkar.nehank.dependencieskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66205227039-4eq0567t9ou96s8ao6268heilqjl6l2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqP6wM_2iOKKMvfJPU8voT9sH4O7fDx_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66205227039-4eq0567t9ou96s8ao6268heilqjl6l2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
